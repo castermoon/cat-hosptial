@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "rm -rf entities & npx typeorm-model-generator -h localhost -d douban -p 3306 -u root -x xinhaolei146 -e mysql -o entities  --ce pascal --cp camel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+.success{
+    border-radius: 16px;
+    background-color: rgb(125, 101, 101,0.05);
+    padding: 20px;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align:center
+}
+.item{
+    margin: 30px;
+}
+.title{
+    margin-bottom: 15px;
+    
+}

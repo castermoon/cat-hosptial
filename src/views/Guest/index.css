@@ -1,0 +1,52 @@
+.page {
+    overflow: auto;
+    padding: 20px;
+    /* background-color: #4ea27d4d; */
+    margin:auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+.guest{
+    padding-top: 10px;
+}
+.title {
+    text-align: center;
+    font-size: 16px;
+    font-family: "楷体";
+}
+
+.rowMiddle {
+    margin-top: 36px;
+}
+
+.spanT {
+    margin-top: 4px;
+    font-family: "微软雅黑";
+}
+
+.spanC {
+    margin-top: 4px;
+    font-family: "微软雅黑", "黑体", "宋体";
+}
+
+.number {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.smallDiv {
+    font-size: 6px;
+    margin-top: 20px;
+
+}
+
+.timeDiv {
+    border-radius: 16px;
+    background-color: rgb(125, 101, 101,0.2);
+    padding: 20px;
+    width: 280px;
+    height: 80px;
+}

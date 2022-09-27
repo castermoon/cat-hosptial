@@ -1,0 +1,14 @@
+
+.rowMiddle {
+    margin-top: 36px;
+}
+
+.name {
+    margin-top: 15px;
+    border-radius: 16px;
+    background-color: rgb(125, 101, 101,0.2);
+    padding: 20px;
+    width: 610px;
+    height: 80px;
+    font-size: 28px;
+}

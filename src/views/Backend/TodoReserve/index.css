@@ -1,0 +1,30 @@
+.table .ant-table-cell {
+    padding: 0px !important;
+    /* background-color:aquamarine; */
+}
+.table .ant-table-thead > tr > th{
+    background: #fff!important;
+}
+.table .ant-table-footer{
+    background: #fff!important;
+}
+.table{
+    width: 600px;
+}
+
+.divmaru {
+    color: orange;
+    cursor: pointer;
+    background-color: rgb(100, 100, 100,0.03);
+    padding: 6px;
+}
+
+.divButton{
+    margin: 10px;
+}
+.divFT-Button{
+    margin: 2px;
+}
+.footer{
+    height: 28px;
+}
