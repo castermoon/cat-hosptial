@@ -5,7 +5,6 @@ import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import DraftEdit from '../../../component/DraftEdit';
 import './index.css'
-import {message} from "_antd@4.23.1@antd";
 const { Option } = Select;
 
 //添加用户按钮的样式
